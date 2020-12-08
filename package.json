@@ -12,7 +12,9 @@
   "scripts": {
     "start": "node server",
     "test": "lab -a @hapi/code -I '__core-js_shared__,core' -L",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "migrate": "npx knex migrate:latest",
+    "seed": "npx knex seed:run"
   },
   "dependencies": {
     "@hapi/boom": "9.x.x",
