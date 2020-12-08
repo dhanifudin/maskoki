@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  mysql:
+    image: yobasystems/alpine-mariadb
+    environment:
+      MYSQL_ROOT_PASSWORD: maskoki
+      MYSQL_DATABASE: maskoki
+      MYSQL_USER: maskoki
+      MYSQL_PASSWORD: maskoki
+    ports:
+      - 3306:3306
+    restart: always
