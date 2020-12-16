@@ -15,8 +15,7 @@ exports.seed = function (knex) {
 1 batang Daun bawang
 Penyedap rasa
 Ladaku bubuk
-Sedikit Terigu untuk perekat
-                    `,
+Sedikit Terigu untuk perekat`,
             instructions: `
 Kocok telur sampai lepas,masukan Penyedap Rasa,ladaku+ Daun bawang.
 Buat perekatnya Dari campuran terigu+sedikit air.
@@ -24,8 +23,7 @@ Siapkan lumpianya, lepas satu2 biar ga ribet. Masukan kocokan telor ditengah2.
 Lipat kedua sisi lumpianya agar telor tidak meluber.
 Lipat lagi kedua ujungnya, sambil dikasih perekat terigu.
 Goreng lumpia diatas wajan yg apinya sedang, Karena cepat gosong jangan lupa dibolak Balik.
-Martabak telor siap dihidangkan.
-                    `
+Martabak telor siap dihidangkan.`
         },
         {
             id: 2,
@@ -48,14 +46,12 @@ Bumbu Halus
 7 siung bawang merah
 lada bubuk
 masako
-1 sdm gula
-
-                    `,
+1 sdm gula`,
             instructions: `
 Cuci bersih semua bahan. Haluskan jagung yang sudah diserut. Saya pakai ulekan, boleh diblender. Tidak usah terlalu halus
 Campurkan jagung yang telah dihaluskan tepung terigu, tapioka dan bumbu halus
 Masukkan daun bawang dan daun seledri. Aduk merata. Jangan lupa cek rasa ya bund
-Panaskan minyak. Ambil 1 sendok adonan. Goreng sampai matang dan berwarna kecoklatan. Tiriskan
+Panaskan minyak. Ambil 1 sendok adonan. Goreng sampai matang dan berwarna kecoklatan. Tiriskan`
         }
     ]);
 };
